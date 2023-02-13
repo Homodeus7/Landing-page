@@ -3,7 +3,7 @@
     <div class="flex flex-col w-full max-w-[615px] relative mx-auto">
       <div class="hidden xl:block">
         <Politico
-          class="absolute opacity-[15%] -right-[360px] top-[220px] blur-[1px]"
+          class="absolute opacity-[15%] -right-[350px] top-[370px] blur-[1px]"
         />
       </div>
 
