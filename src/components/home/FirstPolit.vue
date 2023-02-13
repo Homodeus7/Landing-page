@@ -46,14 +46,14 @@
       <div class="flex gap-3 px-4 xl:px-0">
         <LineIcon />
         <p class="w-full max-w-[335px] text-sm xl:text-base text-[#4D525A]">
-          Spread your campaign throughout the world by our Metaverse
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.
         </p>
       </div>
       <div class="flex flex-col xl:flex-row items-center gap-5 mt-7 px-4 xl:px-0">
         <BaseButton class="w-full xl:max-w-[357px]">
           <div class="flex items-center justify-center gap-4">
             <CheckSquare />
-            <span class="font-medium">Join the Metaverse (coming soon)</span>
+            <span class="font-medium">Join US (coming soon)</span>
           </div>
         </BaseButton>
         <BaseButton outline class="w-full xl:max-w-[181px] font-medium"

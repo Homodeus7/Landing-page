@@ -15,8 +15,8 @@
           </div>
 
           <span class="text-[32px] xl:text-[48px] w-full max-w-[249px] xl:max-w-[528]"
-            >Washington, Green St, 56, apt. 12</span
-          >
+            >Moscow, Green St, 56, apt. 12
+          </span>
         </div>
       </BaseCard>
       <BaseCard class="w-full block xl:hidden max-w-[327px] rotate-[-2deg]">
@@ -25,8 +25,8 @@
             <PhoneIcon />
             <span class="text-primary-base title">Phone</span>
           </div>
-          <a class="font-medium text-[32px] w-full" href="tel:+12 111 234 56 67"
-            >+12 111 234 56 67</a
+          <a class="font-medium text-[32px] w-full" href="tel:+7 111 234 56 78"
+            >+7 111 234 56 78</a
           >
         </div>
       </BaseCard>
@@ -53,8 +53,8 @@
         </div>
         <a
           class="font-medium text-[32px] xl:text-[48px] w-full"
-          href="tel:+12 111 234 56 67"
-          >+12 111 234 56 67</a
+          href="tel:+7 111 234 56 78"
+          >+7 111 234 56 78</a
         >
       </div>
     </BaseCard>

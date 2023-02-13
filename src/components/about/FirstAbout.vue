@@ -10,10 +10,9 @@
         About
       </p>
       <p class="text-sm xl:text-base px-4 md:px-0">
-        The Metaverse provides a unique opportunity for political discussion and debate.
-        It’s a place where people can come together and explore the issues that matter to
-        them without being constrained by physical boundaries. With the right tools, the
-        Metaverse could become the ultimate space for democratic participation.
+        Repellendus quae animi, omnis assumenda distinctio rem saepe officia officiis?
+        Accusantium quam debitis eveniet distinctio atque velit, praesentium similique
+        esse!
       </p>
       <div
         class="relative w-full flex xl:hidden h-[540px] overflow-hidden justify-start pt-12 pb-24"
@@ -54,10 +53,7 @@
         Repellendus quae animi, omnis assumenda distinctio rem saepe officia officiis?
         Accusantium quam debitis eveniet distinctio atque velit, praesentium similique
         esse! Repellendus quae animi, omnis assumenda distinctio rem saepe officia
-        officiis? Accusantium quam debitis eveniet distinctio atque velit, praesentium
-        similique esse! Repellendus quae animi, omnis assumenda distinctio rem saepe
-        officia officiis? Accusantium quam debitis eveniet distinctio atque velit,
-        praesentium similique esse!
+        officiis?
       </p>
     </div>
     <div class="relative w-full hidden xl:flex justify-start">
