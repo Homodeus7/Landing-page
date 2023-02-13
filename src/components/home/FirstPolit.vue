@@ -63,11 +63,11 @@
     </div>
     <div class="relative w-full hidden xl:flex justify-center overflow-hidden">
       <BaseCard
-        class="w-[408px] h-[482px] rotate-[2.5deg] relative px-8 z-10 mr-[120px]"
+        class="w-[408px] h-[482px] rotate-[2.5deg] relative px-8 z-10 mr-[120px]  overflow-hidden"
       >
         <img
           src="@/assets/imgs/items/person4.png"
-          class="absolute -bottom-[-1px] -rotate-[0]"
+          class="absolute -bottom-[37px] rotate-[2.5deg] ml-3"
         />
       </BaseCard>
       <div class="absolute -right-[10px] top-[160px]">
