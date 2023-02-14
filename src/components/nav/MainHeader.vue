@@ -2,7 +2,7 @@
   <header class="flex items-center justify-between w-full py-6">
     <img
       @click="$router.push('/')"
-      class="cursor-pointer ml-10 w-40"
+      class="cursor-pointer ml-10 w-20 md:w-32"
       src="@/assets/imgs/logo-image.svg"
     />
     <nav class="hidden md:flex">
@@ -10,9 +10,6 @@
         <li class="cursor-pointer" v-for="item in links" @click="$router.push(item.link)">
           {{ item.name }}
         </li>
-        <a class="cursor-pointer text-[#222831]" href="/whitepaper.pdf" target="_blank">
-          Whitepaper
-        </a>
       </ul>
     </nav>
     <div v-auto-animate class="flex md:hidden relative">
@@ -31,13 +28,6 @@
           >
             {{ item.name }}
           </li>
-          <a
-            class="cursor-pointer text-[#222831] text-xl"
-            href="/whitepaper.pdf"
-            target="_blank"
-          >
-            Whitepaper
-          </a>
         </BaseCard>
       </ul>
     </div>

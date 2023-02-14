@@ -16,14 +16,14 @@
         Landing Page
       </p>
       <div class="relative w-full xl:hidden flex justify-start pb-[80px] overflow-hidden">
-        <BaseCard class="w-[248px] h-[293px] rotate-[3.44deg] relative px-1 z-10">
+        <BaseCard class="w-[248px] h-[293px] rotate-[4deg] relative px-1 z-10 overflow-hidden" >
           <img
-            src="@/assets/imgs/items/person3.png"
-            class="absolute -bottom-[10px] -rotate-[3.44deg] w-[240px]"
+            src="@/assets/imgs/items/person4.png"
+            class="absolute -bottom-[18px] -rotate-[-1deg] w-[180px] ml-8"
           />
         </BaseCard>
-        <div class="absolute -right-8 top-[100px]">
-          <BaseCard class="w-[186px] h-[220px] -rotate-[4.51deg] relative px-1">
+        <div class="absolute -right-2 top-[100px]">
+          <BaseCard class="w-[186px] h-[220px] -rotate-[4.51deg] relative px-1 overflow-hidden" >
             <img
               src="@/assets/imgs/items/person2.png"
               class="rotate-[4.51deg] absolute -bottom-2 right-3 w-[160px]"
