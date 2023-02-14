@@ -12,15 +12,11 @@
     <div
       class="flex items-center justify-evenly md:justify-between py-[50px] flex-wrap gap-2"
     >
-      <img src="@/assets/imgs/partners/hermes_256.png" />
-      <img src="@/assets/imgs/partners/prada.png" />
-      <img src="@/assets/imgs/partners/chanel.png" />
-      <img src="@/assets/imgs/partners/hermes_256.png" />
-      <img src="@/assets/imgs/partners/prada.png" />
+      <img src="@/assets/imgs/partners/hermes_256.png" class="h-[160px] xl:h-[180px]" />
+      <img src="@/assets/imgs/partners/prada.png" class="h-[160px] xl:h-[180px]" />
+      <img src="@/assets/imgs/partners/chanel.png" class="h-[160px] xl:h-[180px]" />
+      <img src="@/assets/imgs/partners/hermes_256.png" class="h-[160px] xl:h-[180px]" />
+      <img src="@/assets/imgs/partners/prada.png" class="h-[160px] xl:h-[180px]" />
     </div>
   </div>
 </template>
-
-<script lang="ts" setup>
-import Handshake from '@/components/icons/Handshake.vue'
-</script>
