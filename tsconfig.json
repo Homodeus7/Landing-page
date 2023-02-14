@@ -15,7 +15,6 @@
     },
     "resolveJsonModule": true,
     "lib": ["esnext", "dom"],
-    "types": ["cypress"],
     "strict": true,
     "preserveValueImports": false,
     "skipLibCheck": true,

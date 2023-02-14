@@ -10,13 +10,6 @@
         >
           {{ item.name }}
         </li>
-        <a
-          class="cursor-pointer text-white text-base lg:text-[20px]"
-          href="/whitepaper.pdf"
-          target="_blank"
-        >
-          Whitepaper
-        </a>
       </ul>
       <div class="flex items-center justify-between">
         <div class="flex flex-col self-end">
