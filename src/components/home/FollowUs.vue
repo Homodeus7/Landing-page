@@ -11,11 +11,13 @@
         src="@/assets/imgs/follow-group-mobile.svg"
         class="absolute top-64 z-10 block xl:hidden"
       />
-      <p class="text-white text-center text-[28px] xl:text-[48px] font-medium -mt-24">
+      <p
+        class="text-white text-center text-[28px] xl:text-[48px] font-medium -mt-[16px] xl:-mt-24"
+      >
         Follow us
       </p>
       <ul
-        class="w-full max-w-[580px] flex items-center justify-center gap-[40px] rotate-[-0.87deg] mt-20"
+        class="w-full xl:max-w-[580px] max-w-[180px] xl:flex xl:items-center xl:justify-center gap-[40px] rotate-[-0.87deg] mt-20 grid grid-cols-2 justify-items-center"
       >
         <li v-for="(item, i) in links" class="">
           <a
