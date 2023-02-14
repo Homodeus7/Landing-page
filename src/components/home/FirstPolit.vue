@@ -56,7 +56,7 @@
             <span class="font-medium">Join US (coming soon)</span>
           </div>
         </BaseButton>
-        <BaseButton outline class="w-full xl:max-w-[181px] font-medium text-[#4D525A]"
+        <BaseButton class="w-full xl:max-w-[181px] font-medium"
           >Read more</BaseButton
         >
       </div>
